@@ -11,5 +11,3 @@ cp .env.example .env
 php artisan key:generate
 
 php artisan migrate
-
-MySQL  protest14.sql
